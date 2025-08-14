@@ -37,12 +37,9 @@ Your current progress will be displayed here as you complete quests.
 
 ---
 
-### 🕒 Progress Update: 2025-08-14 22:26:59 UTC
-
-⚙️ Current Quest
-  - Q1 - Testing the new GitHub api system
-    -  ~T1 - test~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanEtchie-financing/issues/1)]
-    - T2 - List universities in arizona [[Click here to start](https://github.com/OSS-Doorway-Dev/MisanEtchie-financing/issues/2)]
+### 🕒 Progress Update: 2025-08-14 22:27:57 UTC
 
 ✅ Completed Quests
-  - None yet
+  - Q1 - Testing the new GitHub api system
+    - ~T1 - test~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanEtchie-financing/issues/1)]
+    - ~T2 - List universities in arizona~ [[COMPLETED](https://github.com/OSS-Doorway-Dev/MisanEtchie-financing/issues/2)]
